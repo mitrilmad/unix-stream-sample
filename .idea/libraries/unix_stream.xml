@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unix-stream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../unix-stream/classes/artifacts/unix_stream_jar/unix-stream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
